@@ -31,4 +31,13 @@ export default function App() {
       </Tab.Navigator>
     </NavigationContainer>
   );
+
 }
+cd zen-app 
+git init
+git add .
+git commit -m "Initial ZEN app"
+git branch -M main
+git remote add origin https://github.com/DITTBRUKERNAVN/zen-app.git
+git push -u origin main
+expo start
