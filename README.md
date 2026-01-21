@@ -9,9 +9,9 @@ git push -u origin main
 
 ZEN er en rolig app for manifestering, affirmasjoner og myk yoga.
 
-✨ Finn ro  
-✨ Pust  
-✨ Vær
+✨ Finn roen  
+✨ Kjenn pusten 
+✨ Vær tilstede
 
 Ingen press. Ingen prestasjon.
 Bare ZEN.
